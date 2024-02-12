@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/bin
+/out
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
